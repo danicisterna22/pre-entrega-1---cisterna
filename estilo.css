@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: aqua;
+}
+
+h1{
+  color: blue;
+  text-align: center;
+  align-items: center;
+  padding: 50px;
+  
+}
